@@ -7,6 +7,8 @@ public class Example {
 	   
 	System.out.println(a);
 	
-	   
+	 System.out.println("abc123");
+	 
+	 System.out.println("welcome");   
   }
 }
